@@ -36,7 +36,7 @@ setInterval((res) => {
                         </Box>
                     </FlexGrid.Col>
                     <FlexGrid.Col xs={12} lg={12}>
-                    <img style={{width:'80vw'}} alt="Shubahm" src={Image} />
+                    <img style={{width:'80vw',margin:"auto"}} alt="Shubahm" src={Image} />
                     </FlexGrid.Col>
                 </FlexGrid.Row>
             </FlexGrid> : 
