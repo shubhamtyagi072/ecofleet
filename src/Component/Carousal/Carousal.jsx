@@ -18,7 +18,7 @@ class Header extends React.Component {
   componentWillMount(){
 setInterval((res) => {
     this.setState({value:this.state.value+1})
-  },3000)
+  },6000)
   }
   render(){
    const WrapperGradient = styled.div({
