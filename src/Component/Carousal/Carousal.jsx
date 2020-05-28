@@ -31,7 +31,7 @@ setInterval((res) => {
                 <FlexGrid.Row distribute="around">
                     <FlexGrid.Col xs={12} lg={12} xl={12} >
                         <Box vertical={7} between={1}>
-                        <h1  style={{fontFamily:"algerian",color:"green",fontSize:"62px"}} >MAKING DELIVERY GREEN</h1>
+                        <h1  style={{fontFamily:"algerian",color:"green",fontSize:"62px"}} >MSfdfAKING DELIVERY GREEN</h1>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>YOUR  BEST LAST MILE DELIVERY PARTNER</p>
                         </Box>
                     </FlexGrid.Col>
