@@ -29,6 +29,7 @@ const Header = () => {
                         <Box vertical={7} between={5}>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>ECO FLEET PVT LTD</p>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>Registered Office- First Floor KA- 177, Sec- 12, Pratap Vihar, Ghaziabad , Uttar Pradesh , 201009</p>
+                        <Box between={2}>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>Contact person’s</p>
                         <Box>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>Akshay Kumar</p>
@@ -37,6 +38,11 @@ const Header = () => {
                         <Box>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>Neeraj Tiwari</p>
                         <p style={{fontWeight:"bold",fontSize:"22px" }}>Phone No. – 9555491904</p>
+                        <Box vertical={2}>
+                        <p style={{fontWeight:"bold",fontSize:"22px" }}>Email-id - info@weecofleet.com</p>
+                        </Box>
+                       
+                        </Box>
                         </Box>
                         
                         </Box>

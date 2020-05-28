@@ -36,7 +36,7 @@ const Header = () => {
                     <FlexGrid.Col xs={12} lg={4} >
                     <Box vertical={7}>
                             <Image alt="Shubahm" src={Image3} />
-                            <Box horizontal={8}> <h1 style={{textAlign:"center",fontWeight:"bold" ,fontSize:"20px"}} >Ecommerce</h1></Box>
+                            <Box horizontal={5}> <h1 style={{textAlign:"center",fontWeight:"bold" ,fontSize:"20px"}} >Ecommerce Delivery</h1></Box>
                         </Box>
                     </FlexGrid.Col>
                     <FlexGrid.Col xs={12} lg={4} >
@@ -48,7 +48,7 @@ const Header = () => {
                     <FlexGrid.Col xs={12} lg={4} >
                     <Box vertical={7}>
                             <Image alt="Shubahm" src={Image1} />
-                            <Box horizontal={7}> <Heading level="h3">Fast Delivery</Heading></Box>
+                            <Box horizontal={4}> <Heading level="h3">Online Grocery Delivery</Heading></Box>
                         </Box>
                     </FlexGrid.Col>
                 </FlexGrid.Row>
@@ -56,13 +56,13 @@ const Header = () => {
                     <FlexGrid.Col xs={12} lg={4} >
                         <Box vertical={7}>
                             <Image alt="Shubahm" src={Image4} />
-                            <Box horizontal={7}> <Heading level="h3">Online Food Delivery</Heading></Box>
+                            <Box horizontal={4}> <Heading level="h3">Online Food Delivery</Heading></Box>
                         </Box>
                     </FlexGrid.Col>
                     <FlexGrid.Col xs={12} lg={4}  >
                         <Box vertical={7}>
                             <Image alt="Shubahm" src={Image5} />
-                            <Box horizontal={8}> <Heading level="h3">Online Pharmacy</Heading></Box>
+                            <Box horizontal={5}> <Heading level="h3">Online Pharmacy Delivery</Heading></Box>
                         </Box>
                     </FlexGrid.Col>
                 </FlexGrid.Row>

@@ -19,7 +19,7 @@ const Header = () => {
             <FlexGrid.Row distribute="around">
                     <FlexGrid.Col>
                     <Box vertical={3} >
-                        <h1 style={{ fontFamily: "algerian", color: "green", fontSize: "62px" }} >WHAT MAKE US DIFFERENT</h1>
+                        <h1 style={{ fontFamily: "algerian", color: "green", fontSize: "62px" }} >WHAT MAKES US DIFFERENT</h1>
                     </Box>
                     </FlexGrid.Col>
                 </FlexGrid.Row>
