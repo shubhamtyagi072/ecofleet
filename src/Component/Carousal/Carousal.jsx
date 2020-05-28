@@ -42,7 +42,7 @@ setInterval((res) => {
             </FlexGrid> : 
             <WrapperGradient>
           <FlexGrid>
-          <FlexGrid.Row distribute="between" >
+          <FlexGrid.Row distribute="around" >
               <FlexGrid.Col xs={12} lg={12} xl={12}>
               
                 <Box vertical={7} between={1}>
